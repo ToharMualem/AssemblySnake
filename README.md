@@ -6,6 +6,9 @@ Ofcourse you can use other assemblers
 # Gameplay
 Use WASD keys for changing snake's direction, snake grows after colliding an apple ("eating"), colliding the walls will terminate the program.
 Unfortunately, the game doesn't count score while playing, the core of the game is the visual output and getting input from keyboard.
+
+An image from the game:
+
 ![snake_gamplay_image](https://user-images.githubusercontent.com/101327190/212681393-ca2e7ff4-6618-470b-9b30-0b23f53a7cd6.png)
 
 Enjoy!
